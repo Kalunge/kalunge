@@ -5,7 +5,7 @@
 ### ABOUT ME
 
 - 🔭 I’m currently learning Software development @microverseinc
-- 👯 I’m looking to collaborate on a billion dollar idea I have
+- 👯 I’m looking to collaborate on a billion dollar idea
 - 💬 Ask me about Code, Chess, History, Theology
 - 💆🏿‍♀️ Mantra: Live, love, learn everyday! 
 - 😄 Pronouns: He/Him
