@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 <h1 class="center">Hi 👋, I am Titus Muthomi Kalunge  ✨Kalunge✨</h1>
