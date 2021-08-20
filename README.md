@@ -5,8 +5,8 @@
 ### ABOUT ME
 
 - 🔭 I’m currently a full-time student learning full-stack software development @microverseinc
-- 👯 I’m looking to collaborate on a billion dollar idea
-- 💬 Ask me about Code, Chess, History, Theology
+- 👯 Looking for opportunity in a company with great work culture
+- 💬 Ask me about Code, Chess, History, Theology, Football(Fantasy included)
 - 💆🏿‍♀️ Mantra: Live, love, learn everyday! 
 - 😄 Pronouns: He/Him
 
