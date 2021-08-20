@@ -7,7 +7,7 @@
 - 🔭 I’m currently a full-time student learning full-stack software development @microverseinc
 - 👯 Looking for opportunity in a company with great work culture
 - 💬 Ask me about Code, Chess, History, Theology, Football(Fantasy included)
-- 💆🏿‍♀️ Mantra: Live, love, learn everyday! 
+- 💆🏿‍♀️ Mantra: one Step at a time!
 - 😄 Pronouns: He/Him
 
 
