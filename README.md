@@ -4,7 +4,7 @@
 
 ### ABOUT ME
 
-- 🔭 I’m currently learning Software development @microverseinc
+- 🔭 I’m currently a full-time student learning full-stack software development @microverseinc
 - 👯 I’m looking to collaborate on a billion dollar idea
 - 💬 Ask me about Code, Chess, History, Theology
 - 💆🏿‍♀️ Mantra: Live, love, learn everyday! 
