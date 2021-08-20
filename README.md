@@ -5,7 +5,7 @@
 ### ABOUT ME
 
 - 🔭 I’m currently a full-time student learning full-stack software development @microverseinc
-- 👯 Looking for opportunity in a company with great work culture
+- 👯 Looking for opportunities
 - 💬 Ask me about Code, Chess, History, Theology, Football(Fantasy included)
 - 💆🏿‍♀️ Mantra: one Step at a time!
 - 😄 Pronouns: He/Him
