@@ -8,7 +8,6 @@
 - 👯 Looking for opportunities
 - 💬 Ask me about Code, Chess, History, Theology, Football(Fantasy included)
 - 💆🏿‍♀️ Mantra: one Step at a time!
-- 😄 Pronouns: He/Him
 
 
 ```javascript
