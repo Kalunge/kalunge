@@ -7,7 +7,7 @@
 - 🔭 I’m currently a full-time student learning full-stack software development @microverseinc
 - 👯 Looking for opportunities
 - 💬 Ask me about Code, Chess, History, Theology, Football(Fantasy included)
-- 💆🏿‍♀️ Mantra: one Step at a time!
+- 💆🏿‍♀️ Mantra: Building real-world solutions one Commit at a time!
 
 
 ```javascript
