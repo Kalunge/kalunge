@@ -4,10 +4,12 @@
 
 ### ABOUT ME
 
+
 - 🔭 I’m currently a full-time student learning full-stack software development @microverseinc
 - 👯 Looking for opportunities
 - 💬 Ask me about Code, Chess, History, Theology, Football(Fantasy included)
 - 💆🏿‍♀️ Mantra: Building real-world solutions one Commit at a time!
+- [Portfolio site](https://sad-wilson-7f7527.netlify.app/)
 
 
 ```javascript
