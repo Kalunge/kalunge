@@ -5,7 +5,7 @@
 ### ABOUT ME
 
 
-- 🔭 I’m currently a full-time student learning full-stack software development @microverseinc
+- 🔭 I’m a software development alumni at @microverseinc, a remote software development school that uses pair programming and project building to teach web development 
 - 👯 Looking for opportunities
 - 💬 Ask me about Code, Chess, History, Theology, Football(Fantasy included)
 - 💆🏿‍♀️ Mantra: Building real-world solutions one Commit at a time!
