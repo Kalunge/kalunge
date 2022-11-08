@@ -18,7 +18,6 @@ const TitusMuthomi = async(offer) => {
     await Community.celebration()
   }
   lookingFor: "Back-end developer" || "Full-stack web developer",
-  pronouns: ["He", "him"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap,
   askMeAbout: [Chess, Theology, Football, FFM],
   challenge: "I am learning to learn. Honing my React|Redux Skills",
