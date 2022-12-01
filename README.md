@@ -5,27 +5,28 @@
 ### ABOUT ME
 
 
-- 🔭 I’m a software development alumni at @microverseinc, a remote software development school that uses pair programming and project building to teach web development 
-- 👯 Looking for opportunities
-- 💬 Ask me about Code, Chess, History, Theology, Football(Fantasy included)
-- 💆🏿‍♀️ Mantra: Building real-world solutions one Commit at a time!
-- [Portfolio site](https://sad-wilson-7f7527.netlify.app/)
+- 🔭 I’m a software development alumni at [@microverseinc](https://www.microverse.org/)
+- I
+ ```javascript
+ 
+ - Design and build advanced applications for social enterprises.
+ - Collaborate  with cross-functional teams to define, design, and ship new features.
+ - Work with outside data sources and APIs.
+ - Unit-test code for robustness, including edge cases, usability, and general reliability.
+ - Work on fixing bugs and improving application performance.
+ - Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
 
 
-```javascript
-const TitusMuthomi = async(offer) => {
-  if(offer) {
-    await Community.celebration()
-  }
+
+
+
+
   lookingFor: "Back-end developer" || "Full-stack web developer",
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap,
+  
+  code: [JavaScript, Node, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap,
   askMeAbout: [Chess, Theology, Football, FFM],
-  challenge: "I am learning to learn. Honing my React|Redux Skills",
-  funFacts: ['I am a full-time FullStack Student at Microverse', 
-  'my entire family and community is waiting to Celebrate that offer']
-  await offer.remoteJob().offer.Relocation().offer.local().offer.conversation()
-}
 ```
+ [Portfolio site](https://sad-wilson-7f7527.netlify.app/)
 <!-- <h3 align="center">GitHub Statistics:</h3>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Kalunge&show_icons=true&locale=en" alt="Kalunge" /></p>
