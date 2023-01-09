@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m a software development alumni at [@microverseinc](https://www.microverse.org/)
-- I
+
  ```javascript
  
  - Design and build advanced applications for social enterprises.
