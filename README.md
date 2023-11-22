@@ -5,7 +5,7 @@
 ### ABOUT ME
 
 
-- 🔭 I’m a software development alumni at [@microverseinc](https://www.microverse.org/)
+Results-Oriented Software Engineer skilled in Programming languages, tools and expertise in DevOps. A dynamic professional with a proven track record in diverse sectors including Fin-tech, Community Service, and Mentorship. Contributed to impactful projects including digital wallets, seamless bill payment systems, Community management tools, and third-party integrations.
 
  ```javascript
  
@@ -21,9 +21,9 @@
 
 
 
-  lookingFor: "Back-end developer" || "Full-stack web developer",
+  lookingFor: "Back-end Engineer" || "Full-stack web Engineer",
   
-  code: [JavaScript, Node, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap,
+  code: [Java, Kotlin, JavaScript, Node, React, Redux, Ruby on Rails, AWS, Docker, AWS,
   askMeAbout: [Chess, Theology, Football, FFM],
 ```
  [Portfolio site](https://sad-wilson-7f7527.netlify.app/)
