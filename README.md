@@ -23,7 +23,7 @@ Results-Oriented Software Engineer skilled in Programming languages, tools and e
 
   lookingFor: "Back-end Engineer" || "Full-stack web Engineer",
   
-  code: [Java, Kotlin, JavaScript, Node, React, Redux, Ruby on Rails, AWS, Docker, AWS,
+  code: [Java, Kotlin, JavaScript, Node, React, Redux, Ruby on Rails, AWS, Docker, K8,
   askMeAbout: [Chess, Theology, Football, FFM],
 ```
  [Portfolio site](https://sad-wilson-7f7527.netlify.app/)
