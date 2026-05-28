@@ -5,7 +5,7 @@ Senior software engineer in Nairobi: backend, distributed systems, fintech.
 
 I build production banking infrastructure on the JVM — multi-tenant platforms, USSD gateways, transaction-processing services for several African subsidiaries. I have also worked in Go and Rust on point-of-sale systems, and I'm increasingly applying classical ML and RAG to backend products.
 
-**Portfolio →** [kalunge-io.vercel.app](https://kalunge-io.vercel.app/)
+**Portfolio →** [kalunge-io](https://kalunge-io.vercel.app/)
 
 ## What I work on
 
