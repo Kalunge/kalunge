@@ -5,6 +5,8 @@ Senior software engineer in Nairobi: backend, distributed systems, fintech.
 
 I build production banking infrastructure on the JVM — multi-tenant platforms, USSD gateways, transaction-processing services for several African subsidiaries. I have also worked in Go and Rust on point-of-sale systems, and I'm increasingly applying classical ML and RAG to backend products.
 
+**Portfolio →** [kalunge-io.vercel.app](https://kalunge-io.vercel.app/)
+
 ## What I work on
 
 - **Multi-tenant Spring Boot platforms** — country-specific configuration, per-jurisdiction data isolation, regulatory compliance across multiple markets
@@ -21,5 +23,6 @@ I build production banking infrastructure on the JVM — multi-tenant platforms,
 - AWS Certified Cloud Practitioner; working toward Solutions Architect Associate
 
   ## Contact
+  - Portfolio: https://kalunge-io.vercel.app/
   - LinkedIn: https://www.linkedin.com/in/kalunge/
   - Email: muthomititus@gmail.com
