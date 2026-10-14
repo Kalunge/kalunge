@@ -24,7 +24,7 @@ I build production systems for banking, payments, and operations. My recent work
 
 ## Pinned projects
 
-The repos pinned below are the work I'd point a reviewer at first. Each has a `README.md` covering motivation, architecture, and how to run it locally.
+Much of my most important work has been client work and is therefore private, but I'm always happy to discuss the systems, decisions, and lessons behind it. The public repos pinned below are selected projects I can share, with READMEs covering their motivation, architecture, and how to run them locally.
 
 ## Writing
 
